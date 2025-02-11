@@ -1,3 +1,3 @@
-Google Chrome https://dl.google.com/chrome/install/ChromeSetup.exe
-7zip https://www.7-zip.org/a/7z1900-x64.exe
-VLC https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.18-win64.exe
+Google Chrome|https://dl.google.com/chrome/install/ChromeSetup.exe
+7zip|https://www.7-zip.org/a/7z1900-x64.exe
+VLC|https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.18-win64.exe
