@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Google Chrome",
+    "url": "https://dl.google.com/chrome/install/ChromeSetup.exe",
+    "install_cmd": "ChromeSetup.exe /silent /install"
+  },
+  {
+    "name": "7-Zip",
+    "url": "https://www.7-zip.org/a/7z1900-x64.exe",
+    "install_cmd": "7z1900-x64.exe /S"
+  },
+  {
+    "name": "VLC Player",
+    "url": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.18-win64.exe",
+    "install_cmd": "vlc-3.0.18-win64.exe /L=1033 /S"
+  }
+]
